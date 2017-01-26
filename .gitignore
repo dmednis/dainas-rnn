@@ -1,0 +1,6 @@
+crawler/node_modules/cryptiles/package.json
+crawler/node_modules/
+crawler/data/
+.idea/
+__pycache__/
+logs/

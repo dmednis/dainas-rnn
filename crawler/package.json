@@ -1,0 +1,19 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawler.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "fs-promise": "^1.0.0",
+    "iconv": "^2.2.1",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

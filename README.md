@@ -1,8 +1,8 @@
 # dainas-rnn
 
 Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow.
-Mostly reused code from https://github.com/sherjilozair/char-rnn-tensorflow which was inspired from Andrej Karpathy's char-rnn.
-Based on [hunkim/word-rnn-tensorflow](https://github.com/hunkim/word-rnn-tensorflow)
+Mostly reused code from [hunkim/word-rnn-tensorflow](https://github.com/hunkim/word-rnn-tensorflow) which was inspired from [sherjilozair/char-rnn-tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow) and Andrej Karpathy's char-rnn.
+
 
 ## Dependencies
 * [Python 3] (https://www.python.org/)
